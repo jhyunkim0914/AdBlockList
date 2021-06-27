@@ -16,5 +16,9 @@ namu.wiki##[class='m']
 namu.wiki##footer[data-v-989c8e28='']
 search.namu.wiki/api/ranking
 
+! 라이브리 
 cizion.com/livere
 ||was.livere.me^$important
+
+! 2021-06-26 https://hankookilbo.com
+hankookilbo.com##.comment-area
