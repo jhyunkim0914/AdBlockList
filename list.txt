@@ -16,4 +16,4 @@ namu.wiki##[class='m']
 namu.wiki##footer[data-v-989c8e28='']
 search.namu.wiki/api/ranking
 
-https://saluton.cizion.com/livere
+cizion.com/livere
