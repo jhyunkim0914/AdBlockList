@@ -13,3 +13,4 @@ naver.com##[id='cbox_module']
 namu.wiki##div[data-v-21b51625='']
 namu.wiki##[class='m']
 namu.wiki##footer[data-v-989c8e28='']
+search.namu.wiki/api/ranking
