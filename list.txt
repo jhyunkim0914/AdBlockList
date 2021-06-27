@@ -22,3 +22,6 @@ cizion.com/livere
 
 ! 2021-06-26 https://hankookilbo.com
 hankookilbo.com##.comment-area
+
+! 2021-06-26 https://www.nocutnews.co.kr
+www.nocutnews.co.kr##.con_section > .reply_b
