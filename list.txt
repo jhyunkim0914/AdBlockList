@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Advertise Block list
-! Homepage: https://github.com/ied206/k-news-comment-killer
+! Homepage: https://raw.githubusercontent.com/jhyunkim0914/AdBlockList/main/list.txt
 ! Expires: 3 days (update frequency)
 ! Version: 2021-06-27
 
