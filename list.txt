@@ -1,3 +1,9 @@
+[Adblock Plus 2.0]
+! Title: Advertise Block list
+! Homepage: https://github.com/ied206/k-news-comment-killer
+! Expires: 3 days (update frequency)
+! Version: 2021-06-27
+
 kakao.com##[class='cmt_box']
 kakao.com##[id='alexCounter']
 daum.net##[id='alexCounter']
