@@ -17,3 +17,4 @@ namu.wiki##footer[data-v-989c8e28='']
 search.namu.wiki/api/ranking
 
 cizion.com/livere
+||was.livere.me^$important
